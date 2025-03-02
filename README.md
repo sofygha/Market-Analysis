@@ -1,52 +1,50 @@
 # Market-Analysis
 Overview
 
-This document provides an overview of the Market Analysis.xlsx file, which contains various datasets and analyses related to market trends, sales performance, and strategic business insights. It is designed to support decision-making by analyzing key aspects such as profitability, market share, promotional impact, and forecasting.
+This Excel file contains various datasets and analyses related to market trends, sales performance, and promotional activities. It includes both internal and external data sources to provide insights into market growth, profitability, and sales forecasting.
 
-File Structure
+Sheet Descriptions
 
-The Excel file consists of the following sheets:
+External Data - Contains external market data used for benchmarking and comparison.
 
-External Data - Contains data from external sources relevant to market trends and competitor analysis.
+Brands per Supplier - Lists different brands categorized by their respective suppliers.
 
-Brands per Supplier - Details the brands associated with each supplier for market segmentation.
+HealthMax Growth - Tracks the growth trends of the HealthMax brand.
 
-HealthMax Growth - Focuses on the growth trends of the HealthMax brand.
+MAT Value Total Category - Displays the Moving Annual Total (MAT) value for the entire category.
 
-MAT Value Total Category - Analyzes the moving annual total (MAT) value for different categories.
+Market Share - Provides insights into the market share of various brands and products.
 
-Market Share - Provides an analysis of market share distribution across brands and suppliers.
+Profitability Matrix - Analyzes profitability metrics for different products or categories.
 
-Profitability Matrix - Examines the profitability of various products or business segments.
+Internal Sales Data - Includes internal sales performance data.
 
-Internal Sales Data - Includes internal sales figures for performance tracking.
+New Category Opportunity - Identifies potential opportunities for launching new product categories.
 
-New Category Opportunity - Identifies potential new product categories based on market trends.
+Organic Shampoo Launch - Details related to the launch of an organic shampoo product.
 
-Organic Shampoo Launch - Assesses the feasibility and expected performance of launching an organic shampoo.
+50ml Shampoo 2024 - Sales and analysis related to the 50ml shampoo product in 2024.
 
-50ml Shampoo 2024 - Analyzes the market potential for a 50ml shampoo product in 2024.
+Promotion Analysis - Examines the impact and effectiveness of various promotional strategies.
 
-Promotion Analysis - Evaluates the effectiveness of past promotional campaigns.
+Promotion Graph - Visual representation of promotional performance.
 
-Promotion Graph - Visual representation of promotional impacts on sales and revenue.
+Forecast 2024 - Sales and market forecast for the year 2024.
 
-Forecast 2024 - Sales and market projections for the year 2024.
+Sales until 2022 - Historical sales data up to the year 2022.
 
-Sales until 2022 - Historical sales data up to 2022 for trend analysis.
-
-Waterfall - Waterfall analysis to track gains and losses over time.
-
-Purpose
-
-This file is intended for business analysts, marketing teams, and decision-makers who need insights into market dynamics, sales performance, and strategic opportunities.
+Waterfall - A waterfall analysis showing changes in sales, revenue, or profitability over time.
 
 Usage
 
-Use Market Share and Profitability Matrix to assess competitive standing.
+Use this file for market analysis, strategic planning, and decision-making.
 
-Refer to Forecast 2024 for future business planning.
+Utilize the forecast and profitability data to optimize sales strategies.
 
-Analyze Promotion Analysis and Promotion Graph to optimize marketing strategies.
+Leverage the promotion analysis to assess the effectiveness of past marketing campaigns.
 
-Explore New Category Opportunity and Organic Shampoo Launch for product innovation.
+Notes
+
+Ensure that data is updated regularly for accurate insights.
+
+Some sheets may require external data integration for complete analysis.
